@@ -14,7 +14,7 @@ documents = [
     "Machine learning is a subset of AI that focuses on using algorithms to learn from data.",
     "Deep learning is a subset of machine learning focusing on neural networks."
 ]
-relevant_docs = [[0], [1], [2]]  # Ground truth for evaluation
+relevant_docs = [[0], [1], [2]]
 
 # TF-IDF-based retrieval
 def evaluate_retrieval(queries, documents, relevant_docs):
