@@ -3,7 +3,7 @@ A short program that performs a basic RAG evaluation
 
 # Retrieval-Augmented Generation (RAG) Evaluation
 
-It evaluates the retrieval component of a Retrieval-Augmented Generation (RAG) system. RAG combines document retrieval with a text generation model. Accurate retrieval is critical for generating contextually relevant responses.
+This model generation model. Accurate retrieval is critical for generating contextually relevant responses.
 
 ## Types of RAG Evaluation
 1. Retrieval Evaluation:
@@ -17,6 +17,6 @@ It evaluates the retrieval component of a Retrieval-Augmented Generation (RAG) s
    - Metrics: Human evaluation or task-specific benchmarks.
 
 ## Chosen Evaluation for my model here: Retrieval Evaluation
-The evaluation focuses on retrieval because the quality of retrieved documents is foundational to the RAG framework's success. **Precision@1** and **MRR** are used as metrics for this evaluation.
+The evaluation here focuses on retrieval because the quality of retrieved documents is foundational to the RAG framework's success. **Precision@1** and **MRR** are used as metrics for this evaluation.
 
 
